@@ -29,7 +29,7 @@
 /// # Examples
 ///
 /// ```
-/// use bubble_sort::bubble_sort;
+/// use sorting_algorithms::bubble_sort;
 ///
 /// let mut list = [ 2, 3, 5, 4, 1 ];
 /// bubble_sort(&mut list);
